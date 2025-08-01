@@ -1,0 +1,20 @@
+---
+
+### 📜 `LICENSE`
+
+Use MIT or GNU depending on your preference.
+
+---
+
+## ✅ To Upload on GitHub:
+
+1. Create a repo called `whois-dns-lookup`
+2. Add:
+   - `lookup_tool.py`
+   - `README.md`
+   - `LICENSE`
+3. Push with your Hacker Toolkit label/tag
+
+---
+
+Want to combine this with **port scanning**, **reverse IP**, or **subdomain enumeration**? I can extend the tool into a full recon suite.
